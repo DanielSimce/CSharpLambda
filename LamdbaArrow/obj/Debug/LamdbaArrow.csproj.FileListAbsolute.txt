@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\LamdbaArrow\LamdbaArrow\bin\Debug\LamdbaArrow.exe.config
+C:\Users\Daniel\source\repos\LamdbaArrow\LamdbaArrow\bin\Debug\LamdbaArrow.exe
+C:\Users\Daniel\source\repos\LamdbaArrow\LamdbaArrow\bin\Debug\LamdbaArrow.pdb
+C:\Users\Daniel\source\repos\LamdbaArrow\LamdbaArrow\obj\Debug\LamdbaArrow.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\LamdbaArrow\LamdbaArrow\obj\Debug\LamdbaArrow.exe
+C:\Users\Daniel\source\repos\LamdbaArrow\LamdbaArrow\obj\Debug\LamdbaArrow.pdb
